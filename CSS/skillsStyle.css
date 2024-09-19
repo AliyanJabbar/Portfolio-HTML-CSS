@@ -1,0 +1,31 @@
+.skills {
+  margin: 5px;
+}
+
+.skills h1 {
+  text-decoration: underline;
+  text-decoration-color:blue;
+  font-family: "Roboto", system-ui;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.skills h2 {
+    text-decoration: underline;
+    text-decoration-color: rgb(13, 0, 255);
+  font-family: "Roboto", system-ui;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.skills ul li {
+  font-family: "Playpen Sans", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+.skills hr{
+    border: 1px solid rgb(24, 23, 23);
+}

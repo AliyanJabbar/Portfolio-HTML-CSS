@@ -1,0 +1,22 @@
+.exp p{
+    font-family: "Roboto", system-ui;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.exp ul a li{
+    margin: 15px auto;
+    font-family: "Oswald", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    font-size: x-large;
+    transition-property: font-size ;
+    transition-duration: 1s;
+}
+
+.exp ul a li:hover{
+    font-size: xx-large;
+}
